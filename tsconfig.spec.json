@@ -1,8 +1,14 @@
 /* To learn more about this file see: https://angular.io/config/tsconfig. */
 {
+<<<<<<< HEAD
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./out-tsc/spec",
+=======
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../../out-tsc/spec",
+>>>>>>> 0602adbd42673611ab637e1fd2bdcdd5ef31157c
     "types": [
       "jasmine"
     ]
